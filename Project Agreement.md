@@ -97,37 +97,42 @@ The development team can begin work within three weeks of project agreement and 
 #Customer Project Agreement
 
 &nbsp;
-
-| | | |
-|-|-|-|
-| Project Sponsor – {name} | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Date |
+\________________________ Project Sponsor – {name}
 
 &nbsp;
- 
-| | | |
-|-|-|-|
-| Project Owner – {name} | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Date |
+\________________________ Date
+
+&nbsp;
+
+&nbsp;
+\________________________ Project Owner – {name}
+
+&nbsp;
+\________________________ Date
 
 
 
 #Developer Project Agreement:
 &nbsp;
 
-| | | |
-|-|-|-|
-| Project Manager – {name} | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Date |
+&nbsp;
+\________________________ Project Manager – {name}
+
+&nbsp;
+\________________________ Date
 
 &nbsp;
 
-| | | |
-|-|-|-|
-| Lead Developer – {name} | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Date |
+&nbsp;
+\________________________ Lead Developer – {name}
+
+&nbsp;
+\________________________ Date
 
 &nbsp;
 
-| | | |
-|-|-|-|
-| CTO – {name} | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Date |
+&nbsp;
+\________________________ CTO – {name}
 
-______________________________________	___________________
-CTO – {name}						    Date
+&nbsp;
+\________________________ DAte
